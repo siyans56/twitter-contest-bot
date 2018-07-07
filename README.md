@@ -60,12 +60,12 @@ If you're looking for similar projects in alternative languages, check these out
 * *(JavaScript)* https://github.com/raulrene/Twitter-ContestJS-bot
 
 
-Winning:
-You will probably not win 4 contests per day or even anything close to that. 
-Running multiple accounts increases your chances by a lot. 
-
-Useful links from people who have run similar bots:
+Usefull Links:
 https://steemit.com/twitter/@yoghurt/my-experiences-running-a-twitter-giveaway-bot
 https://rpiai.com/retweeting-to-win/
 https://steemit.com/programming/@kurozael/twitter-contest-bot
 https://www.vox.com/2015/10/5/9409017/hack-online-contest-win
+
+
+
+Depending on how lucky you get you typically win around 0.1% of all contests entered.
