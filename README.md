@@ -63,8 +63,11 @@ If you're looking for similar projects in alternative languages, check these out
 
 Usefull Links:
 https://steemit.com/twitter/@yoghurt/my-experiences-running-a-twitter-giveaway-bot
+
 https://rpiai.com/retweeting-to-win/
+
 https://steemit.com/programming/@kurozael/twitter-contest-bot
+
 https://www.vox.com/2015/10/5/9409017/hack-online-contest-win
 
 
