@@ -44,7 +44,8 @@ Installation
 ------------
 1: Find and Open up Command Prompt
 	
-2: In Command Prompt Run: pip install TwitterAPI	
+2: In Command Prompt Run: pip install TwitterAPI
+
 	Errors: Search Google. Typically it's about python not being installed correctly. Also you might want to try: py -m pip install TwitterAPI
 
 3: Using Notepad (recommended) or your preferred editor open config.json. Fill in with your credentials. For information on how to get Twitter Creds: http://docs.inboundnow.com/guide/create-twitter-application/
