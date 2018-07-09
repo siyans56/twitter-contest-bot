@@ -22,26 +22,36 @@ License
 
 You can fork this repository on GitHub as long as it links back to this original repository. Do not sell this script as I would like the code to remain free.
 
+
 Prerequisites
 ------------
 
   * TwitterAPI
   * Python 2.7
   
+  
+Python 2.7: https://www.python.org/download/releases/2.7/
+For information on how to install python: https://www.howtogeek.com/197947/how-to-install-python-on-windows/
+  
 Configuration
 ------------
 
 Open up `config.json` and make the values correspond to your Twitter API credentials.
 
+Change your Twitter Account settings to allow dm's from anybody.
+
 Installation
 ------------
-From the command line:
-
-	pip install TwitterAPI
+1: Find and Open up Command Prompt
 	
-Then run:
+2: In Command Prompt Run: pip install TwitterAPI
 
-	python main.py
+	Errors: Search Google. Typically it's about python not being installed correctly.
+
+3: Using Notepad (recommended) or your preferred editor open config.json. Fill in with your credentials. For information on how to get Twitter Creds: http://docs.inboundnow.com/guide/create-twitter-application/
+	
+4: Then run main.py. (Double click on file or main.py in command prompt) 
+
 
 Alternatives
 -------------
@@ -49,3 +59,18 @@ Alternatives
 If you're looking for similar projects in alternative languages, check these out:
 
 * *(JavaScript)* https://github.com/raulrene/Twitter-ContestJS-bot
+
+
+Usefull Links:
+
+https://steemit.com/twitter/@yoghurt/my-experiences-running-a-twitter-giveaway-bot
+
+https://rpiai.com/retweeting-to-win/
+
+https://steemit.com/programming/@kurozael/twitter-contest-bot
+
+https://www.vox.com/2015/10/5/9409017/hack-online-contest-win
+
+
+
+	***Depending on how lucky you get you typically win around 0.1% of all contests entered***
