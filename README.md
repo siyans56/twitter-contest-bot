@@ -38,7 +38,9 @@ Configuration
 
 Open up `config.json` and make the values correspond to your Twitter API credentials.
 
-Change your Twitter Account settings to allow dm's from anybody.
+In order to recieve a consumer key, consumer secret key, access token key, and secret access token key, you will need to reigster an app at https://developer.twitter.com/ (and of course, you must have a Twitter account that you want to use as the owner of said app).
+
+Make sure you change your Twitter Account settings to allow dm's from anybody (Settings -> Privacy and Safety -> Check both boxes under Direct Messages)
 
 Installation
 ------------
@@ -50,7 +52,7 @@ Installation
 
 3: Using Notepad (recommended) or your preferred editor open config.json. Fill in with your credentials. For information on how to get Twitter Creds: http://docs.inboundnow.com/guide/create-twitter-application/
 	
-4: Then run main.py. (Double click on file or main.py in command prompt) 
+4: Then run main.py. (Double click on file or python main.py in command prompt) 
 
 
 Alternatives
