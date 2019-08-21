@@ -1,15 +1,15 @@
 {
-        "search-queries": ["#giveaway", "Retweet and win", "retweet and you could win", "rt for your chance to win", "#giveawayalert", "win rt", "#rttowin", "#sweepstakes"],
-        "follow-keywords": [" follow ", " follower ", "following"],
-        "fav-keywords": [" fav ", " favorite "],
-        "scan-update-time": 83,
-        "retweet-update-time": 83,
-        "rate-limit-update-time": 83,
-        "min-ratelimit":20,
-        "min-ratelimit-retweet":96,
-        "min-ratelimit-search":94,
-	"consumer-key": "Consumer Key Goes Here",
-	"consumer-secret": "Consumer Secret Goes Here",
-	"access-token-key": "Access Token Key Goes Here",
-	"access-token-secret": "Access Token Goes Here. Read README for HELP"
+  "search-queries": ["#giveaway", "Retweet and win", "retweet and you could win", "RT and follow to enter", "rt for your chance to win", "#retweet", "#giveawayalert", "win rt", "#rttowin", "#sweepstakes"],
+  "follow-keywords": [" follow ", " follower ", "following", "#follow"],
+  "fav-keywords": [" fav ", " favorite "],
+  "scan-update-time": 83,
+  "retweet-update-time": 83,
+  "rate-limit-update-time": 83,
+  "min-ratelimit":20,
+  "min-ratelimit-retweet":90,
+  "min-ratelimit-search":88,
+	"consumer-key": "klKuKN8cbHCSs8nNform6esEj",
+	"consumer-secret": "0AqsslEImR6QDEZ3MilXXSr2XcGJ6eLLIErRBEvTNNEfLaZMr0",
+	"access-token-key": "515896802-6fWiZuq7kVUDjGDqM3FDalYWClATM4P8mv93aRDY",
+	"access-token-secret": "kK9er4vfPPPPD36xJnKrnnGyxBjwEpIVeKOEz16elHWLB"
 }
