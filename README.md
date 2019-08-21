@@ -1,17 +1,6 @@
 # twitter-contest-bot
-Will poll for Retweet Contests and retweet them. Inspired by http://www.hscott.net/twitter-contest-winning-as-a-service/
-
-[![Build Status](https://travis-ci.org/kurozael/twitter-contest-bot.svg?branch=master)](https://travis-ci.org/kurozael/twitter-contest-bot)
-
-Donate
+Will poll for Retweet Contests and retweet them. Forked from https://github.com/kurozael/twitter-contest-bot
 ------------
-
-If you're feeling kind, feel free to throw some cash my way for a beer!
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G4J6TEGJ7X2WE">
-<img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif"/>
-</a>
-
 Disclaimer
 ------------
 
