@@ -11,6 +11,10 @@ import sys
 # - Add a GUI
 # - Turn into an exe appli
 
+# US_GEOBOX = [24.825716, 49.064126, -66.987401, -125.540986]
+#  {'locations':'-74,40,-73,41'})
+#     top right: 41, -73 MINE: 48.814831, -66.193620
+#     bottom left: 40, -74 MINE: 24.662450, -127.928023
 
 # Load our configuration from the JSON file.
 with open('config.json') as data_file: #get file object and alias as data_file
@@ -183,7 +187,8 @@ def ScanForContests():
                         print("Getting new results for: " + search_query)
 
                         try:
-                                r = api.request('search/tweets', {'q':search_query, 'result_type':"recent", 'count':100})
+                                # Search for tweets matching query WITHIN approximate US area
+                                r = api.request('search/tweets', {'q':search_query, 'result_type':"recent", 'count':100, 'locations':'-127.928023, 24.662450, -66.193620, 48.814831'})
                                 CheckError(r)
                                 c=0
 
